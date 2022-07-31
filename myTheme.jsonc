@@ -1,0 +1,217 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.colorCustomizations": {
+    
+        "editor.background": "#08032c",
+        "activityBar.background": "#0b176f",
+        "editorGroupHeader.tabsBackground": "#0c2886",
+        "tab.inactiveBackground": "#1f31b6",
+        "tab.activeBackground": "#052c48",
+        "breadcrumb.background": "#01171e",
+        "statusBar.border": "#0303ff",
+        "contrastBorder": "#bebec0",
+        "tab.border": "#eaefe9",
+        "activityBar.border": "#e3e4df",
+        "textCodeBlock.background": "#4302f6",
+        "textLink.foreground": "#820475",
+        "scrollbarSlider.background": "#1639a2",
+        "scrollbarSlider.hoverBackground": "#ead707",
+        "scrollbarSlider.activeBackground": "#064ef5",
+        "progressBar.background": "#08a3f0",
+        "activityBarBadge.background": "#cc6600",
+        "editor.selectionBackground": "#f6e6073a",    
+        "editor.inactiveSelectionBackground": "#ffff0059",
+        "editor.selectionHighlightBackground": "#ffe1005c",
+        "editor.selectionHighlightBorder": "#fbff01",
+        "editor.wordHighlightBackground": "#ffff005a",
+        "editor.wordHighlightBorder": "#fffb00",
+        "editorCursor.foreground": "#ffffff",
+        "editor.selectionForeground": "#ffe6005a",
+        "editor.lineHighlightBackground": "#ffffff18",
+        "editor.hoverHighlightBackground": "#ffffff53",
+        "editor.lineHighlightBorder": "#ffffff29",
+        "editor.wordHighlightStrongBorder": "#fbff00",
+        "editor.wordHighlightStrongBackground": "#ffffff5a",
+},
+
+"editor.tokenColorCustomizations": {
+    "textMateRules":[
+        {
+            "scope": "punctuation",
+            "settings": {
+                "foreground": "#aef105",
+            }
+        },
+        
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#95f8ff63",
+            }
+        },
+        
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#f4ea76",
+            }
+        },
+        
+        {
+            "scope": "text",
+            "settings": {
+                "foreground": "#03d19a",
+            }
+        },
+        
+        {
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#a033f4",
+            }
+        },
+        {
+            "scope": "constant.language",
+            "settings": {
+                "foreground": "#14be2b",
+            }
+        },
+        {
+            "scope": "entity.name.function",
+            "settings": {
+                "foreground": "#c10202",
+            }
+        },
+        {
+            "scope": "entity.name.tag",
+            "settings": {
+                "foreground": "#0083f5",
+            }
+        },
+        {
+            "scope": "entity.name.type",
+            "settings": {
+                "foreground": "#2953de",
+            }
+        },
+        {
+            "scope": "variable.parameter",
+            "settings": {
+                "foreground": "#a24b03",
+            }
+        },
+        {
+            "scope": "keyword.control",
+            "settings": {
+                "foreground": "#223af1",
+            }
+        },  
+        {
+            "scope": "keyword.operator", 
+            "settings": {
+                "foreground": "#ef71c7",
+            }
+        },     
+        {
+            "scope": "storage.type",
+            "settings": {
+                "foreground": "#ff9900",
+            }
+        },
+        {
+            "scope": "variable",
+            "settings": {
+                "foreground": "#07b388",
+            }
+        },
+        {
+            "scope": "entity.other.inherited-class",
+            "settings": {
+                "foreground": "#51028e",
+            }
+        },
+        {
+            "scope": [
+                "entity.other.attribute-name.class.css",
+                "entity.other.attribute-name.class.mixin.css",
+                "entity.other.attribute-name.id.css",
+                "entity.other.attribute-name.parent-selector.css",
+                "entity.other.attribute-name.pseudo-class.css",
+                "entity.other.attribute-name.pseudo-element.css",
+                "source.css.less entity.other.attribute-name.id",
+                "entity.other.attribute-name.scss"
+            ],
+            "settings": {
+                "foreground": "#fbc502"
+            }
+        },
+        {
+            "scope": [
+                "support.type.vendored.property-name",
+                "support.type.property-name",
+                "variable.css",
+                "variable.scss",
+                "variable.other.less",
+                "source.coffee.embedded"
+            ],
+            "settings": {
+                "foreground": "#f34122"
+            }
+        },
+        {
+            "scope": "entity.name.tag.css",
+            "settings": {
+                "foreground": "#ee2207"
+            }
+        },
+        {
+            "scope": [
+                "keyword.operator.new",
+                "keyword.operator.expression",
+                "keyword.operator.cast",
+                "keyword.operator.sizeof",
+                "keyword.operator.alignof",
+                "keyword.operator.typeid",
+                "keyword.operator.alignas",
+                "keyword.operator.instanceof",
+                "keyword.operator.logical.python",
+                "keyword.operator.wordlike"
+            ],
+            "settings": {
+                "foreground": "#01f0d0"
+            }
+        },
+        {
+        "scope": [
+            "meta.embedded",
+            "source.groovy.embedded"
+        ],
+        "settings": {
+            "foreground": "#04c4ff"
+        }
+        },
+        {
+            "scope": "entity.other.attribute-name",
+            "settings": {
+                "foreground": "#ff5100"
+            }
+        },
+        {
+			"name": "CSS property value",
+			"scope": [
+				"support.constant.property-value",
+				"support.constant.font-name",
+				"support.constant.media-type",
+				"support.constant.media",
+				"constant.other.color.rgb-value",
+				"constant.other.rgb-value",
+				"support.constant.color"
+			],
+			"settings": {
+				"foreground": "#00a2ff"
+			}
+		},
+]
+},
+"window.zoomLevel": 1
+}
