@@ -2,7 +2,7 @@
     "workbench.colorTheme": "Visual Studio Dark",
     "workbench.colorCustomizations": {
     
-        "editor.background": "#08032c",
+        "editor.background": "#0b070084",
         "activityBar.background": "#0b176f",
         "editorGroupHeader.tabsBackground": "#0c2886",
         "tab.inactiveBackground": "#1f31b6",
