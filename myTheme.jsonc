@@ -1,6 +1,13 @@
 {
-    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.colorTheme": "Monokai Dimmed",
     "workbench.colorCustomizations": {
+    
+        
+        
+        
+
+    "[Monokai Dimmed]": {},
+    
     
         "editor.background": "#0b070084",
         "activityBar.background": "#0b176f",
@@ -191,9 +198,11 @@
         }
         },
         {
-            "scope": "entity.other.attribute-name",
+            "scope": 
+                "entity.other.attribute-name", 
             "settings": {
-                "foreground": "#ff5100"
+                "foreground": "#ff5100", 
+                "fontStyle": "italic",
             }
         },
         {
@@ -213,8 +222,10 @@
 		},
 ]
 },
-"window.zoomLevel": 1,
+"window.zoomLevel": 1, 
 "editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
 "editor.fontFamily": "Fira Code",
 "explorer.confirmDelete": false,
+"livePreview.notifyOnOpenLooseFile": false,
+"explorer.confirmDragAndDrop": false,
 }
