@@ -1,15 +1,8 @@
 {
     "workbench.colorTheme": "Monokai Dimmed",
     "workbench.colorCustomizations": {
-    
-        
-        
-        
-
     "[Monokai Dimmed]": {},
-    
-    
-        "editor.background": "#0b070084",
+        "editor.background": "#212121",
         "activityBar.background": "#0b176f",
         "editorGroupHeader.tabsBackground": "#0c2886",
         "tab.inactiveBackground": "#1f31b6",
@@ -86,7 +79,8 @@
         {
             "scope": "entity.name.function",
             "settings": {
-                "foreground": "#c10202",
+                "foreground": "#306982",
+                "fontStyle": "italic"
             }
         },
         {
@@ -110,7 +104,7 @@
         {
             "scope": "keyword.control",
             "settings": {
-                "foreground": "#223af1",
+                "foreground": "#5f69b5",
             }
         },  
         {
@@ -129,6 +123,7 @@
             "scope": "variable",
             "settings": {
                 "foreground": "#07b388",
+                "fontStyle": "italic"
             }
         },
         {
@@ -222,10 +217,15 @@
 		},
 ]
 },
-"window.zoomLevel": 1, 
-"editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
-"editor.fontFamily": "Fira Code",
+
+"editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+"editor.fontFamily": "'Fira Code iScript', Cascadia Code ,Consolas",
 "explorer.confirmDelete": false,
 "livePreview.notifyOnOpenLooseFile": false,
 "explorer.confirmDragAndDrop": false,
+"terminal.integrated.fontFamily": "courier",
+"editor.accessibilitySupport": "off",
+"githubPullRequests.pullBranch": "never",
+"liveServer.settings.donotShowInfoMsg": true,
+"window.zoomLevel": 1,
 }
